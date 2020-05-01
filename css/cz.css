@@ -93,12 +93,12 @@ section.issue-reader p {position:relative;margin-top:50px;padding:25px;}
 section.issue-reader iframe {display:block;margin-top:55px;width:100%;height:100vh}
 
 .mobile-disclaimer {display: none;z-index: 200}
-/*small screen 2*/
+/*small screen 2
 @media (max-width: 767.98px) {
-	/*.mobile-disclaimer {display: block}*/
+	.mobile-disclaimer {display: block}
 	section.issue-reader iframe {margin-top: 0px}
 	}
-}
+}*/
 
 /*large screens*/
 @media (max-width: 1199.98px) {
